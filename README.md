@@ -1,5 +1,5 @@
 # Supplementary code repository
-Used to reproduce results and figures for the manuscript "Airborne characterization of dry aerosol effective real refractive index in the Arctic spring and summer."
+Used to reproduce results and figures for the manuscript "Airborne characterization of dry aerosol effective real refractive index in Arctic spring and summer."
 ## Setup
 Once you clone this repository, you can use `uv` to create the virtual Python environment used in this analysis. Simply run the following command in the repository directory.
 `uv sync`
